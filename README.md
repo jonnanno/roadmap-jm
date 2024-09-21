@@ -6,7 +6,7 @@ I will be updating as i complete de different projects.
 
 ------------
 
-1.- [Single-Page CV](Single-Page CV)
+1.- [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
 Create a single-page HTML CV to showcase your career history.
 
