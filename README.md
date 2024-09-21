@@ -23,3 +23,5 @@ Create simple HTML only website with multiple pages.
 Convert the previous simple HTML website into a personal portfolio.
 
 *The goal of this project is to teach you how to style a website using CSS. You will take the structure from the [previous HTML-only project](https://roadmap.sh/projects/basic-html-website) and apply various CSS techniques to enhance its appearance and responsiveness.*
+
+You can see this in action [here](http://jonano.free.nf/)
