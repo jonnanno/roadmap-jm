@@ -1,5 +1,5 @@
 
-### This is a repository for the challenge projects for the Frontend developer roadmap you can find in [roadmap.sh](https://roadmap.sh/)This is a repository for the challenge projects for the Frontend developer roadmap you can find in [roadmap.sh](https://roadmap.sh/)
+### This is a repository for the challenge projects for the Frontend developer roadmap you can find in [roadmap.sh](https://roadmap.sh/)
 
 I will be updating as i complete de different projects.
 
