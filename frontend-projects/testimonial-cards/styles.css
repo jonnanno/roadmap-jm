@@ -1,0 +1,55 @@
+:root{
+    --my-bgcolor: #efdada;
+}
+
+.card {
+  max-width: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: var(--my-bgcolor);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.card-pp {
+  height: 65px;
+  width: auto;
+  border-radius: 50%;
+}
+
+.card-name {
+  font-family: sans-serif;
+  font-size: 1.2em;
+  margin-left: 16px;
+}
+
+.card-body {
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.card-footer {
+  margin-top: 10px;
+}
+
+body {
+  margin: 40px;
+}
+
+.card-star {
+  height: 20px;
+  width: 20px;
+  color: darkgoldenrod;
+}
+
+.stars {
+  text-align: right;
+  margin-right: 10px;
+}

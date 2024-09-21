@@ -1,0 +1,114 @@
+<body class="container">
+    
+    <header>
+      <nav>
+        <section class="logo">
+          <img
+            src="https://eu.ui-avatars.com/api/?name=John+Doe&size=150"
+            alt="Avatar picture for John Doe"
+          />
+          <p>John Doe</p>
+        </section>
+        <navbar class="header-nav">
+          <a href="#">Home</a> | <a href="projects.html">Projects</a> |
+          <a href="articles.html">Articles</a> |
+          <a href="contact.html">Contact</a>
+        </navbar>
+      </nav>
+      <h1>Frontend Developer</h1>
+      <p>html only with proper layout, no styling</p>
+    </header>
+    <div class="container">
+      <aside>
+        <h2>Projects</h2>
+        <ul>
+          <li><a href="#">HTML only portfolio</a></li>
+          <li><a href="#">Calculator</a></li>
+          <li><a href="#">Quiz App</a></li>
+          <li><a href="#">Countdown Timer</a></li>
+          <li><a href="#">Product Upcoming Page</a></li>
+        </ul>
+      </aside>
+      <main>
+        <section class="work-experience">
+          <h2>Work experience</h2>
+          <article>
+            <h3>roadmap.sh</h3>
+            <p>Solved all the frontend projects</p>
+            <a href="#"><p>Visit my profile</p></a>
+          </article>
+          <article>
+            <h3>Opensource work</h3>
+            <p>
+              Contributed to 50 opensource projects. Made my own projects with
+              200 GitHub stars.
+            </p>
+            <a href="#"><p>Visit my GitHub profile</p></a>
+          </article>
+        </section>
+        <section class="education">
+          <h2>Education</h2>
+          <article>
+            <h3>School Name, Location - Degree</h3>
+            <p>Month 20XX to Month 20XX</p>
+            <p>
+              Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized
+              30 sessions.
+            </p>
+          </article>
+          <article>
+            <h3>Courses I took</h3>
+            <ul>
+              <li>Object Oriented Programming</li>
+              <li>Data Structures and Algorithms</li>
+              <li>Web Engineering</li>
+              <li>Artificial Intelligence</li>
+              <li>Human Computer Interaction</li>
+              <li>Computer Graphics</li>
+              <li>Database Management Systems</li>
+              <li>Distribute Database Systems</li>
+              <li>Discreet Mathematics</li>
+            </ul>
+          </article>
+        </section>
+        <section class="teacher-reviews">
+          <h2>Reviews from my teachers</h2>
+          <div class="reviews">
+            <article>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
+                accusamus eveniet tempora eligendi culpa earum excepturi? Eos
+                corrupti tempore eum possimus dolores quod illo aliquam,
+                repellat veritatis maxime. Nisi, veritatis.
+              </p>
+              <p>Jane Doe</p>
+              <small>Assistant Professor</small>
+            </article>
+            <article>
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Reiciendis quam iure commodi modi quis sed consequatur non
+                molestias nemo alias? Et similique ratione rerum dolor eius sunt
+                nulla ullam quasi!
+              </p>
+              <p>Jane Doe</p>
+              <small>Assistant Professor</small>
+            </article>
+            <article>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Consequuntur obcaecati quae soluta numquam a ea placeat alias
+                voluptate accusamus. Commodi nemo, laborum explicabo voluptate
+                ut officia illo ea iusto repudiandae.
+              </p>
+              <p>Jane Doe</p>
+              <small>Assistant Professor</small>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+    <footer>
+      <p>&copy; 2023. All rights reserved.</p>
+    </footer>
+  </body>
