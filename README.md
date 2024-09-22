@@ -27,3 +27,11 @@ Convert the previous simple HTML website into a personal portfolio.
 *The goal of this project is to teach you how to style a website using CSS. You will take the structure from the [previous HTML-only project](https://roadmap.sh/projects/basic-html-website) and apply various CSS techniques to enhance its appearance and responsiveness.*
 
 You can see this in action [here](http://jonano.free.nf/)
+
+4.- [Changelog Component](https://roadmap.sh/projects/changelog-component)
+
+Create a changelog component for a website using HTML and CSS.
+
+*The goal of this project is to teach you about positioning and layout in CSS. You will create a simple HTML structure and use CSS to style it into a visually appealing and responsive changelog component. Given below is a rough mockup of the changelog component you need to create.*
+
+This one still needs a lot of improvement.
